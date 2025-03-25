@@ -1,0 +1,12 @@
+#ifndef SECURITY_APP_VERSION_H
+#define SECURITY_APP_VERSION_H
+
+/*
+** Version number values
+*/
+#define SECURITY_APP_MAJOR_VERSION    1
+#define SECURITY_APP_MINOR_VERSION    0
+#define SECURITY_APP_REVISION         0
+#define SECURITY_APP_MISSION_REV      0
+
+#endif /* SECURITY_APP_VERSION_H */
